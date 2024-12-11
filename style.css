@@ -117,3 +117,18 @@ main {
     width:24px;
     margin-right: 0.6rem;
 }
+
+input[type=text] {
+    width: 100%;
+    background-color: #f0f2f5;
+    border: none;
+    border-radius: 2.5rem;
+    height: 40px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 1rem;
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: #6d6d6d;
+}
